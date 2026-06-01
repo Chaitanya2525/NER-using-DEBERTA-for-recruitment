@@ -1,0 +1,7 @@
+pdfplumber
+spacy
+sentence-transformers
+torch
+transformers
+networkx
+numpy
